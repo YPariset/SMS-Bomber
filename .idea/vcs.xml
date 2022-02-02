@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BatailleJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LecteurFichiers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RPG-JAVA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TodoList" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/openGL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-data-jpa-course" vcs="Git" />
+  </component>
+</project>
